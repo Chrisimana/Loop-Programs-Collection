@@ -51,7 +51,7 @@ Program ini mengidentifikasi bilangan prima dalam rentang 2-1000 menggunakan nes
 ## 🏗️ Struktur Program
 
 ### Alur Program
-```
+```mermaid
 graph TD
     A[Mulai] --> B[Inisialisasi i = 2]
     B --> C{i <= 1000?}

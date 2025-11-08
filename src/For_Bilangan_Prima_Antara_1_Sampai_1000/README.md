@@ -44,7 +44,7 @@ Bilangan prima adalah bilangan yang hanya habis dibagi 1 dan dirinya sendiri. Pr
 ---
 
 ### Diagram Alir Program
-```
+```mermaid
 graph TD
     A[Mulai] --> B[Cetak Header]
     B --> C[Loop i=2 to 1000]

@@ -49,7 +49,7 @@ Program ini menampilkan deretan bilangan ganjil dan genap dalam rentang 1 sampai
 
 ### Execution Flow
 
-```
+```mermaid
 graph TD
     A[Start] --> B[Initialize i = 1]
     B --> C{While i <= 1000}

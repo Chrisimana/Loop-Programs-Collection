@@ -49,7 +49,7 @@ Program ini menampilkan deretan bilangan ganjil dan genap dalam rentang 1 sampai
 
 ### Flowchart Program
 
-```
+```mermaid
 graph TD
     A[Start] --> B[Tampilkan &quot;Bilangan ganjil antara 1-1000&quot;]
     B --> C[For loop: i=1; i&lt;=1000; i+=2]

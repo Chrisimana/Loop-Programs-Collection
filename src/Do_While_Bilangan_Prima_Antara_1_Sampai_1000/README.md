@@ -56,7 +56,7 @@ Program ini mengimplementasikan deteksi bilangan prima menggunakan nested do-whi
 ## 🏗️ Struktur Program
 
 ### Alur Program
-```
+```mermaid
 graph TD
     A[Mulai] --> B[Cetak Header]
     B --> C[Inisialisasi i=2]
