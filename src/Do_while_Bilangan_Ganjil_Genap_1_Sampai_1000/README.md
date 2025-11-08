@@ -48,7 +48,6 @@ Program ini menampilkan deretan bilangan ganjil dan genap dalam rentang 1 sampai
 ## 🔍 Cara Kerja
 
 ### Alur Program
-```
 graph TD
     A[Start] --> B[Print &quot;Bilangan Ganjil&quot; Header]
     B --> C[Initialize i = 1]
@@ -61,7 +60,6 @@ graph TD
     H --> I{i <= 1000?}
     I -- Ya --> H
     I -- Tidak --> J[End]
-```
 
 ## 🎮 Penggunaan
 
